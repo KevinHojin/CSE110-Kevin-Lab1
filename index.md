@@ -14,7 +14,7 @@ This is my [Linkedin Page](https://www.linkedin.com/in/kevin-an-038bb9219/)
 
 [Click to see my info](relative.md)
 
-[a section link to my lab1](https://github.com/KevinHojin/CSE110-Kevin-Lab1/blob/new-branch/index.md#welcome-to-my-github)
+[a section link to my lab1!](https://github.com/KevinHojin/CSE110-Kevin-Lab1/blob/new-branch/index.md#welcome-to-my-github)
 
 I will be taking following classes in FA21
 
